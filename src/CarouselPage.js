@@ -15,10 +15,10 @@ class CarouselPage extends Component {
 		return (
 			<div>
 				<Carousel title="Carousel">
-					<Item>Item</Item>
-					<Item>Item</Item>
-					<Item>Item</Item>
-					<Item>Item</Item>
+					<Item>Item 0</Item>
+					<Item>Item 1</Item>
+					<Item>Item 2</Item>
+					<Item>Item 3</Item>
 				</Carousel>
 			</div>
 		);
